@@ -2,8 +2,6 @@
 <h3 align="center">a student trying to learn something on his own</h3>
 
 - 🌱 I’m currently learning python **django**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
